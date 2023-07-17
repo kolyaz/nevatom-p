@@ -1,6 +1,6 @@
-# Nevatom S (nevatom-s)
+# Nevatom P (nevatom-p)
 
-Nevatom S
+Nevatom P
 
 ## Install the dependencies
 ```bash
